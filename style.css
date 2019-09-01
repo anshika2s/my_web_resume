@@ -45,13 +45,14 @@ div{
 .home{
   margin-left:20%;
   text-align:center;
-  height:900px;
+  height:90%;
+  padding-bottom: 10%;
   background-color:	#C0C0C0;
   background-image: linear-gradient(to right, #757f9a,#d7dde8);
 
 }
 .name{
-  font-size:250%;
+  font-size:255%;
   padding-top:2%;
 }
 .image{
@@ -63,7 +64,8 @@ div{
 
 .profile{
   margin-left:20%;
-  height:850px;
+  height:85%;
+  padding-bottom:10%;
   background-image: linear-gradient( to right,#33ccff,#ff99cc);
 }
 
@@ -79,16 +81,15 @@ div{
   font-size:120%;
   padding-top:4%;
   list-style-type: none;
-  /* background-color:#80ffbf; */
-  padding-left:10%;
-  /* padding-bottom:; */
+  padding-left:15%;
+ 
 }
 .education{
   list-style-type: none;
   margin-left:20%;
-   background-image: linear-gradient( to right, #99ffcc,#ffff99);
-  /* background-image: url("images/Telegram.jpg"); */
-  height:920px;
+  background-image: linear-gradient( to right, #99ffcc,#ffff99);
+  padding-bottom: 10%;
+  height:92%;
 }
 .education_heading{
   font-size:400%;
@@ -107,10 +108,10 @@ div{
 }
 .technology{
   margin-left:20%;
-  /* background-color: #00e64d; */
+  padding-bottom: 10%;
   background-image: url("images/Summer Dog.jpg");
   background-image: linear-gradient( to right, #ff99ff,#99ccff);
-  height:1100px;
+  height:110%;
 }
 .technology_heading{
   font-size:400%;
@@ -130,7 +131,8 @@ div{
   margin-left:20%;
   background-image: linear-gradient( to right,#33ccff,#ff99cc);
   background-image: url("images/Tranquil.jpg");
-  height:950px;
+  height:95%;
+  padding-bottom:15%;
 }
 .tp_heading{
   font-size:400%;
@@ -160,7 +162,8 @@ div{
   margin-left:20%;
   background-image: url("images/Almost.jpg");
   background-image: linear-gradient( to right,#ffff99,#666699);
-  height:800px;
+  height:80%;
+  padding-bottom: 5%;
   list-style-type: none;
 }
 .connect_heading{
@@ -174,7 +177,7 @@ div{
 }
 .connect_list{
   padding-left:10%;
-  padding-top:7%;
+  padding-top:5%;
   font-size:200%;
 }
 .connect_list:hover{
@@ -193,5 +196,6 @@ div{
   font-size:65%;
   border:1px solid #009933;
   border-radius:12%;
+  padding: 0.5%;
   margin-left:10%;
 }
